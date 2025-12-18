@@ -19,6 +19,11 @@ db = mysql.connector.connect(
 )
 
 
+@app.route('/')
+def bruh():
+    return redirect('/novels')
+
+
 
 @app.route("/novels")
 def novels():
