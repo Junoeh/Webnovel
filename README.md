@@ -58,6 +58,12 @@ Kanban-board brukt med:
 
 ## 5. Databasebeskrivelse
 
+Novel Table: <img width="1154" height="237" alt="image" src="https://github.com/user-attachments/assets/8d20be2b-7e48-4719-925a-0d5cec6b0975" />
+
+Chapters Table: <img width="1144" height="302" alt="image" src="https://github.com/user-attachments/assets/a4b5ac54-39bb-4692-9bd3-04b69110c214" />
+
+
+
 **Databasenavn:**  
 webnovels
 
@@ -93,6 +99,7 @@ Flask-ruter:
 ## 8. Sikkerhet og pålitelighet
 
 - Parameters
+- DotEnv
 
 
 ---
@@ -119,4 +126,5 @@ Jeg ville lagt til innlogging og brukere hvis jeg visste litt mer
 
 ## 11. Kilder
 
-- w3schools  
+- w3schools
+- MariaDB.com
